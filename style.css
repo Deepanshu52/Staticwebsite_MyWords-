@@ -1,0 +1,147 @@
+.myrow{
+  
+  border:2px solid red;
+  padding:2spx;
+}
+.mycol{
+  
+  border:2px solid grey;
+}
+.mycontainer{
+  background-color: rgb(44, 197, 197);
+  border:2px solid grey;
+}
+#topheader{
+  background-color: rgb(241, 243, 242);
+  border-bottom: 1px solid silver;
+  
+}
+#topheader a{
+  text-align: right;
+  color:#2c3e50;
+  font-weight:600;
+  font-size:0.89rem;
+}
+#main{
+  background-color: #2c3e50;
+  border-bottom:1px solid grey;
+  padding:4px;
+}
+#main h2{
+  text-align: center;
+  color:rgb(44, 197, 197);
+  font-weight:600;
+  font-size:1rem;
+}
+.container-fluid{
+  padding-left:0;
+  padding-right:0;
+
+}
+nav ul li a{
+  font-size:1.1em;
+  font-weight:600;
+}
+/*  start of footer  */
+.topfooter p{
+color:white;
+}
+.topfooter a{
+  color:blue;
+  font-weight:600;
+}
+.topfooter h3{
+  color:white;
+  
+}
+.Full-footer{
+  background-color:#34495e ;
+  
+}
+.bottom-footer{
+  background-color: #182029;
+}
+.bottom-footer p{
+  color: #f6f9fd;
+}
+/*  this is start of hompage  */
+.top-hero-section{
+  background-color: #2980b9;
+  color: white;
+}
+.top-hero-section a{
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+}
+.qualities-img{
+  width:200px;
+}
+.col-md-4{
+  text-align: center;
+  /*  start of momepage third  */
+}
+.requirements-section{
+background-color: #05182b;
+}
+.requirements-section h3{
+  color:white;
+  text-align: center;
+}
+/* newsletter secction */
+.homenewsletter{
+  text-align: center;
+  color:#f6f9fd;
+  background-color: #064a8f;
+}
+.homenewsletter .form-control{
+  height:50px;
+  border-color:transparent;
+  border-radius: 20px 0 0 20px ;
+}
+.homenewsletter .btn{
+  height:50px;
+  border-color:transparent;
+  border-radius: 0 20px 20px 0 ;
+  background-color: rgba(24, 233, 69, 0.4);
+}
+/*  end of home page and start of about us page  */
+.breadcrumb{
+  background-color: rgb(243, 237, 237);
+}
+.bottomheader nav a img{
+  height:50px;
+  width:150px;
+}
+.person h3{
+  text-align: center;
+  background-color: rgb(70, 182, 190);
+  color:black;
+}
+.mylife p strong{
+  color:#e67e22;
+}
+.mylife img{
+  height:400px;
+  width:350px
+}
+.mylife h3{
+  color:#e03333;
+}
+.images img{
+  width: 300px;
+  height:300px;
+}
+.mylife i{
+  color:#4947e2
+}
+.navb h5{
+  text-align:mid-left;
+  color:#e74c3c;
+  background-color: #bdc3c7;
+}
+.fool p{
+  background-color: #34495e;
+  color: #bdc3c7;
+  text-align: center;
+
+}
